@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>🔭 Currently building Full Stack Java applications using Spring Boot, React, and MySQL.<br><br>🌱 Learning Microservices, Docker, Spring Security, System Design, and Advanced DSA.<br><br>👯 Looking to collaborate on Java Backend, Open Source, and Full Stack projects.<br><br>🤝 Interested in scalable backend systems, REST APIs, and cloud-native applications.<br><br>💬 Ask me about Java, Spring Boot, React, MySQL, Git, and Data Structures & Algorithms.<br><br>🎓 Final Year B.Tech (Electronics & Telecommunication Engineering) Student.<br><br>⚡ Passionate about solving real-world problems through software engineering and continuously improving my backend development skills.
 
 
